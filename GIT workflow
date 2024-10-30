@@ -1,0 +1,13 @@
+GIT workflow
+FOr the FIRST TIME
+1. create your repository or repo
+2. git init
+3. git remote add origin <url>
+4. git add .
+5. git commit -m "testing documentation"
+6. git push origin master
+
+After the initital setup has been done
+1. git add .
+2. git commit -m "describe what you did"
+3. git push origin <branch_name>
